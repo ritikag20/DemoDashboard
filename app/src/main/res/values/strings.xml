@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo Dashboard</string>
+    <string name="tab_text_1">Groceries</string>
+    <string name="tab_text_2">Medicines</string>
+    <string name="tab_text_3">Others</string>
+</resources>
